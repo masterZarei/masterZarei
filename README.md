@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m **MohammadMahdi Zarei**
 
-<!--
-**masterZarei/masterZarei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A results-driven Software Engineer specializing in **.NET**, **ASP.NET Core**, **SQL Server**, and **technical education**.  
+My focus is on building scalable backend services, optimizing data workflows, and delivering high-impact engineering outputs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Architect and develop **high-performance backend systems**
+- Build clean and scalable **RESTful APIs**
+- Create actionable and practical educational content for developers
+- Lead and mentor engineering teams with an execution-focused mindset
+
+---
+
+## 🧩 Core Competencies
+- **ASP.NET Core / Web API**
+- **SQL Server**, performance tuning, query optimization
+- **Entity Framework Core**
+- **Clean Architecture**
+- **Git**, CI/CD pipelines
+
+---
+
+## 🎯 Engineering Mindset
+I prioritize clarity, speed, and operational excellence.  
+No fluff. Just clean execution and measurable results.
+
+---
+
+## 📬 Connect With Me
+info@emzacode.com
+emzacode@gmail.com
+
