@@ -24,7 +24,6 @@ My focus is on building scalable backend services, optimizing data workflows, an
 
 ## 🎯 Engineering Mindset
 I prioritize clarity, speed, and operational excellence.  
-No fluff. Just clean execution and measurable results.
 
 ---
 
