@@ -28,7 +28,6 @@ I prioritize clarity, speed, and operational excellence.
 ---
 
 ## 📬 Connect With Me
-info@emzacode.com
 emzacode@gmail.com
 [Emzacode.com](https://emzacode.com/#info)
 
